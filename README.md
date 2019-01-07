@@ -62,3 +62,12 @@ Particular Page Record
 ![alt welcome](https://github.com/rahuljadli/Book-Inventory-Management/blob/master/screen_shots/particular_book_record.png)
 
 
+## Steps Taken To Complete This Project
+
+###### Made a Python Script to extract all information regarding a book from books.toscrape.com which is a free practice purpose scraping website having 1000+ records regarding books.
+
+###### Used Google Firebase NoSQL database to store information on cloud and usedn its storage bucket and its authetication system to authenticate the user based on gmail account.
+
+###### Used Tkinter for GUI purpose and used concept of framming and followed OOP approach to make the projects .
+
+###### Used concept of threading to make the desktop app Fast.
