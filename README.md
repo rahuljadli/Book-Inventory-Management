@@ -44,3 +44,21 @@ Home Page
 Displaying All Records
 
 ![alt welcome](https://github.com/rahuljadli/Book-Inventory-Management/blob/master/screen_shots/all_records.png)
+
+Login Page
+
+![alt welcome](https://github.com/rahuljadli/Book-Inventory-Management/blob/master/screen_shots/login.png)
+
+Email Verification Mail
+
+[alt welcome](https://github.com/rahuljadli/Book-Inventory-Management/blob/master/screen_shots/email_verification.png)
+
+Forget Password Mail
+
+[alt welcome](https://github.com/rahuljadli/Book-Inventory-Management/blob/master/screen_shots/forget_password.png)
+
+Particular Page Record
+
+[alt welcome](https://github.com/rahuljadli/Book-Inventory-Management/blob/master/screen_shots/particular_book_record.png)
+
+
